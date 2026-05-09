@@ -46,7 +46,7 @@ sudo apt install apache2 -y
 sudo systemctl status apache2           # active (running) olduğunu doğrula
 sudo systemctl enable apache2           # sistem açılışında otomatik başlat
 ```
-![Apache Status](screenshots/apache-status.png)
+![Apache Status](Screenshots/apache-status.png)
 
 Ana domain sayfası oluşturma:
 
@@ -127,11 +127,11 @@ sudo systemctl status bind9
 ```
 ## Sonuçlar
 
-![Ana Domain](screenshots/main-domain.png)
+![Ana Domain](Screenshots/main-domain.png)
 
-![Subdomain](screenshots/subdomain.png)
+![Subdomain](Screenshots/subdomain.png)
 
-![DNS Sorgusu](screenshots/dns-query.png)
+![DNS Sorgusu](Screenshots/dns-query.png)
 
 
 ## Edindiklerim..
